@@ -25,6 +25,7 @@
 | `frontend/**`, `*.tsx`, `*.jsx` | `docs/DevOps/Frontend/REACT_RULES.md` |
 | React 폼·`useState` 리팩터 | 위 문서 + 프로젝트 예시 `frontend/v0-titanic-qa-app/app/signup/page.tsx` |
 | `backend/**`, `*.py` (secom API 등) | `docs/README.md`의 Backend 항목 + `backend/CLAUDE.md` |
+| SQLModel 엔티티·Alembic·테이블 PK | `docs/DevOps/Backend/ENTITY_RULE.md` |
 | 저장소 전반·Cursor 맥락 | `CURSOR.md`, `CLAUDE.md` (루트 또는 `backend/`) |
 
 상세 목록·추가 규칙은 **`docs/README.md`만 보면 된다.** 새 규칙은 `docs/DevOps/<영역>/` 아래 md로 추가하고 README에 등록한다.
