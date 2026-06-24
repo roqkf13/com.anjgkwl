@@ -1,0 +1,229 @@
+{
+  "main": {
+    "id": "eb74aa2cefbdeed6",
+    "type": "split",
+    "children": [
+      {
+        "id": "9a5d126515d04397",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "208b2fd19bfcd515",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "그래프 뷰"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "8ade3b67191bbbc4",
+    "type": "split",
+    "children": [
+      {
+        "id": "03a87061add658fb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "92555c516a04892f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "파일 탐색기"
+            }
+          },
+          {
+            "id": "f924039ad94ea94f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "검색"
+            }
+          },
+          {
+            "id": "c5ee78e647bf27a3",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "북마크"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "3efa7c4a90242aa3",
+    "type": "split",
+    "children": [
+      {
+        "id": "d7049721045517aa",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "49f0d565e8622b28",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              },
+              "icon": "links-coming-in",
+              "title": "백링크"
+            }
+          },
+          {
+            "id": "e4178bc06cf53f73",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "나가는 링크"
+            }
+          },
+          {
+            "id": "4d76aa20c83ae144",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "태그"
+            }
+          },
+          {
+            "id": "fa5c6f35a6e1559f",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "모든 속성"
+            }
+          },
+          {
+            "id": "0d4ed903641c4965",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "개요"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:빠른 전환기 열기": false,
+      "graph:그래프 뷰 열기": false,
+      "canvas:새 캔버스 만들기": false,
+      "daily-notes:오늘의 일일 노트 열기": false,
+      "templates:템플릿 삽입": false,
+      "command-palette:명령어 팔레트 열기": false,
+      "bases:새 베이스 생성하기": false
+    }
+  },
+  "active": "208b2fd19bfcd515",
+  "lastOpenFiles": [
+    "flutter/flutter_run_result.png",
+    "www/v0-titanic-qa-app/node_modules/cmdk/LICENSE.md",
+    "CLAUDE.md",
+    "CURSOR.md",
+    "survival_charts2.png",
+    "survival_charts.png",
+    "survival_v3.png",
+    "fare_dist.png",
+    "www/v0-titanic-qa-app/README.md",
+    "abiswallow/apps/titanic/_docs/titanic-erd.md",
+    "abiswallow/apps/titanic/_docs/titanic-machine-learning.md",
+    "abiswallow/apps/titanic/_docs/CLAUDE.md",
+    "abiswallow/_docs/CLAUDE.md",
+    "abiswallow/__pycache__/main.cpython-313.pyc.123983763539088",
+    "abiswallow/main.py.tmp.1512.0d6a5ef94fd5",
+    "abiswallow/apps/harry_porter/app/use_cases/sm_dombledore_store_interactor.py",
+    "abiswallow/apps/harry_porter/app/use_cases/ax_hogwarts_heritage_interactor.py",
+    "abiswallow/apps/harry_porter/app/use_cases/dx_sphinx_quiz_interactor.py",
+    "abiswallow/apps/harry_porter/app/use_cases/ax_hermione_route.interactor.py",
+    "abiswallow/apps/harry_porter/app/use_cases/po_professor_festival.interactor.py",
+    "abiswallow/apps/harry_porter/app/use_cases/ax_sphinx_quiz_interactor.py",
+    "abiswallow/apps/harry_porter/app/use_cases/ax_lovegood_coures_interactor.py",
+    "abiswallow/apps/harry_porter/app/use_cases/po_harry_user_interactor.py",
+    "www/node_modules/@google/generative-ai/README.md",
+    "vault/abiswallow/CLAUDE.md",
+    "abiswallow/README.md",
+    "abiswallow/apps/titanic/_docs/README.md",
+    "vault/test_symlink.md",
+    "vault/titanic/CLAUDE.md",
+    "vault/www/CLAUDE.md",
+    "vault/README.md",
+    "titanic/CLAUDE.md",
+    "vault/abiswallow/SCOUT_ERD.md",
+    "vault/abiswallow/scaffold-rules.md",
+    "vault/abiswallow/TITANIC_ERD.md",
+    "vault/abiswallow/entiy-rules.md",
+    "vault/abiswallow/ENTITY_RULE.md",
+    "vault/abiswallow/db-rules.md",
+    "vault/abiswallow/auth-rules.md",
+    "vault/abiswallow/app-rules.md",
+    "무제.canvas",
+    "vault/Pasted image 20260528140301.png",
+    "vault/Pasted image 20260528141719.png",
+    "vault/Pasted image 20260528141548.png",
+    "vault/Pasted image 20260528141813.png",
+    "www/v0-titanic-qa-app/public/placeholder-logo.png",
+    "www/v0-titanic-qa-app/public/apple-icon.png"
+  ]
+}
