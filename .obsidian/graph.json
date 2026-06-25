@@ -20,6 +20,13 @@
         "a": 1,
         "rgb": 5137360
       }
+    },
+    {
+      "query": "path:flutter  ",
+      "color": {
+        "a": 1,
+        "rgb": 11392604
+      }
     }
   ],
   "collapse-display": false,
@@ -32,6 +39,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.6316046762907459,
+  "scale": 0.4505081176757778,
   "close": true
 }

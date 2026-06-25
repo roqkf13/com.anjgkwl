@@ -18,7 +18,8 @@
     "**/*.css",
     "**/*.scss",
     ".DS_Store",
-    ".env*"
+    ".env*",
+    ".next"
   ],
   "showUnsupportedFiles": false,
   "alwaysUpdateLinks": false
