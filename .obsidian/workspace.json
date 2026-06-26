@@ -178,6 +178,8 @@
   },
   "active": "388035b01ed88094",
   "lastOpenFiles": [
+    "abiswallow/core/matrix/__pycache__/ollama_neo_local_model.cpython-313.pyc",
+    "abiswallow/core/matrix/__pycache__/ollama_neo_local_model.cpython-313.pyc.134384413117104",
     "www/v0-titanic-qa-app/package.json.tmp.15072.79464b6f4127",
     "www/v0-titanic-qa-app/package.json.tmp.15072.5e759aa2f737",
     "abiswallow/requirements-dev.txt.tmp.15072.a4c409550ced",
@@ -196,8 +198,6 @@
     "CLAUDE.md",
     "abiswallow/apps/__pycache__/__init__.cpython-312.pyc",
     "abiswallow/apps/__pycache__",
-    "abiswallow/setup.cfg.tmp.21620.52b5f7568d23",
-    "abiswallow/setup.cfg.tmp.21620.cb87a3a8cf16",
     "www/CLAUDE.md",
     "www/v0-titanic-qa-app/README.md",
     "flutter/flutter_run_result.png",
