@@ -38,6 +38,19 @@ services:
       - N8N_PROTOCOL=https
       - WEBHOOK_URL=https://n8n.anjgkwl.com/
 
+  # 1-1. Watson Test Harness (멀티 에이전트 라우팅 검증용, 1회성 실행)
+  #      실행: docker compose run --rm watson-harness
+  watson-harness:
+    build:
+      context: ./abiswallow
+    command: python apps/sherlock_homes/tests/harness/run_watson_harness.py
+    volumes:
+      - ./abiswallow:/app
+    env_file:
+      - ./abiswallow/.env
+    profiles:
+      - harness
+
   # 2-1. Cloudflare Tunnel (n8n을 n8n.anjgkwl.com으로 공개)
   cloudflared:
     image: cloudflare/cloudflared:latest

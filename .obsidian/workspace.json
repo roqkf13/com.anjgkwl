@@ -178,6 +178,7 @@
   },
   "active": "875fda3d68e13f1d",
   "lastOpenFiles": [
+    "abiswallow/requirements.txt.tmp.20352.d71b71a9e41e",
     "abiswallow/apps/star_craft/domain/ontology/spam/__pycache__/__init__.cpython-313.pyc",
     "abiswallow/apps/star_craft/domain/ontology/spam/__pycache__/spam_taxonomy.cpython-313.pyc",
     "abiswallow/apps/star_craft/domain/ontology/spam/__pycache__/spam_category.cpython-313.pyc",
@@ -188,7 +189,6 @@
     "abiswallow/apps/sherlock_homes/app/dtos/__pycache__/classify_spam_dto.cpython-313.pyc",
     "abiswallow/apps/sherlock_homes/app/use_cases/__pycache__/classify_spam_interactor.cpython-313.pyc",
     "abiswallow/apps/sherlock_homes/tests/app/use_cases/__pycache__/test_classify_spam_interactor.cpython-313-pytest-9.0.3.pyc",
-    "abiswallow/apps/sherlock_homes/tests/app/use_cases/__pycache__/__init__.cpython-313.pyc",
     "abiswallow/apps/titanic/_docs/CLAUDE.md",
     "abiswallow/CLAUDE.md",
     "abiswallow/_docs/CLAUDE.md",
